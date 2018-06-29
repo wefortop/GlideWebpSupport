@@ -88,7 +88,7 @@ public class ImageListActivity extends FragmentActivity {
 
         @Override
         public int getItemCount() {
-            return 2;
+            return 30;
         }
     }
 
